@@ -1,0 +1,27 @@
+html{
+    background-color: rgb(187, 154, 154);
+}
+
+header{
+    background-color: burlywood;
+}
+h2{
+    background-color: rgb(198, 203, 189);
+}
+head{
+    background-color:rgb(165, 172, 138);
+}
+.info{
+    border: 10px solid black;
+    max-width: 700px;
+    margin: auto;
+}
+.rounded{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{
+    text-align: center;
+    color:brown
+}
